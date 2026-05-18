@@ -1,3 +1,18 @@
-div{
-  color:black;
+/*Selecionar o corpo inteiro da página*/
+body {
+  /*define a cor do texto*/
+  color: white;
+  /*background-color: black;
+}
+
+.sniglet-regular {
+  font-family: "Sniglet", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sniglet-extrabold {
+  font-family: "Sniglet", system-ui;
+  font-weight: 800;
+  font-style: normal;
 }
